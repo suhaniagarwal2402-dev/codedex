@@ -1,0 +1,1 @@
+A beginner-friendly Python project containing two scripts: a basic Flask web application that serves a 'Hello World' message, and a command-line Rock Paper Scissors game where players compete against a computer with win/loss tracking.
